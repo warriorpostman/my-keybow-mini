@@ -1,5 +1,5 @@
 require "keybow"
-require "layouts/default" -- Numberpad
+-- require "layouts/default" -- Numberpad
 
 -- Custom layouts (uncomment to enable) --
 
@@ -12,3 +12,4 @@ require "layouts/default" -- Numberpad
 -- require "layouts/mini" -- Keybow MINI example layout
 -- require "layouts/mini_volume" -- Keybow MINI volume controls
 -- require "layouts/mini_playback" -- Keybow MINI media playback controls
+require "layouts/macros" -- My macros file!
